@@ -1,1 +1,1 @@
-# YulliNisia-IT2-SoftwareEngineering
+# Yulli Nisia - IT 2 - Software Engineering
